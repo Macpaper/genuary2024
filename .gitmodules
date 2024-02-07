@@ -1,0 +1,18 @@
+[submodule "gen1"]
+	path = gen1
+	url = https://github.com/Macpaper/genuary2024.git
+[submodule "gen2"]
+	path = gen2
+	url = https://github.com/Macpaper/genuary2024.git
+[submodule "gen3"]
+	path = gen3
+	url = https://github.com/Macpaper/genuary2024.git
+[submodule "gen4"]
+	path = gen4
+	url = https://github.com/Macpaper/genuary2024.git
+[submodule "gen5"]
+	path = gen5
+	url = https://github.com/Macpaper/genuary2024.git
+[submodule "gen6"]
+	path = gen6
+	url = https://github.com/Macpaper/genuary2024.git
